@@ -1,0 +1,11 @@
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\4 неделя\12 задание\Zadania 12 (form)\Zadania 12 (form)\bin\Debug\Zadania 12 (form).exe.config
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\4 неделя\12 задание\Zadania 12 (form)\Zadania 12 (form)\bin\Debug\Zadania 12 (form).exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\4 неделя\12 задание\Zadania 12 (form)\Zadania 12 (form)\bin\Debug\Zadania 12 (form).pdb
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\4 неделя\12 задание\Zadania 12 (form)\Zadania 12 (form)\obj\Debug\Zadania 12 (form).csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\4 неделя\12 задание\Zadania 12 (form)\Zadania 12 (form)\obj\Debug\Zadania 12 (form).csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\4 неделя\12 задание\Zadania 12 (form)\Zadania 12 (form)\obj\Debug\Zadania_12__form_.Form1.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\4 неделя\12 задание\Zadania 12 (form)\Zadania 12 (form)\obj\Debug\Zadania_12__form_.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\4 неделя\12 задание\Zadania 12 (form)\Zadania 12 (form)\obj\Debug\Zadania 12 (form).csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\4 неделя\12 задание\Zadania 12 (form)\Zadania 12 (form)\obj\Debug\Zadania 12 (form).csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\4 неделя\12 задание\Zadania 12 (form)\Zadania 12 (form)\obj\Debug\Zadania 12 (form).exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\4 неделя\12 задание\Zadania 12 (form)\Zadania 12 (form)\obj\Debug\Zadania 12 (form).pdb
